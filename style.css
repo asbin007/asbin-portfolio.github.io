@@ -1,0 +1,116 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#title{
+    background-color: #AAC4FF;
+    width: 100%;
+}
+.container-fluid{
+    margin: 2%;
+}
+#navbarNav{
+    margin: 3%;
+    
+
+}
+.nav-item{
+    padding: 0 20px;
+    font-size: 1.24rem;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* describing yourself */
+.container-fluids{
+    margin: 7% 0;
+}
+.heading{
+    font-size: 1.5rem;
+    
+
+}
+.intro{
+    font-size: 2rem;
+    line-height: 1.3;
+    color:white;
+    margin:6% 0;
+    font-family: cursive;
+
+}
+.btn-first{
+    margin: 0 1%;
+}
+.btn-second {
+    margin: 0 3%;
+}
+.image{
+    height: 80vh;
+    width: 100%;
+    margin-bottom:15%;
+    align-items: center;
+    padding-right:20%;
+
+    
+    
+    
+}
+
+/* section about */
+#about{
+    width:100%;
+}
+
+
+.about-heading{
+    font-weight: bold;
+    text-align: center;
+    
+}
+.about-img{
+    height: 90vh;
+    padding-left:7%;
+}
+.about-intro{
+    padding-left: -5%;
+    width: 100vw;
+}
+ 
+/* services */
+#services{
+    padding: 7% 15%;
+    background-color: white;
+}
+.service-icon {
+    text-align: center;
+    padding: 5%;
+}
+
+h3{
+    font-style: oblique;
+    font-size: 1rem;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-decoration: underline;
+}
+p{
+    margin:1% 0;
+    font-family: cursive;
+    font-style: italic;
+
+}
+.icon{
+    color: #B1B2FF;
+    margin-bottom: 1rem;
+
+}
+.icon:hover{
+    color: #AAC4FF;
+}
+
+
+/* section fotter */
+#fotter{
+            text-align: center;
+    /* align-items: center; */
+}
